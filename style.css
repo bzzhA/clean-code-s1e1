@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box
+}
+
 /* Basic Style */
 
 body {
@@ -17,7 +21,7 @@ body {
   width: 100%;
 }
 
-.aaa .more_inf {
+.aaa .more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -48,7 +52,8 @@ h3 {
   list-style:none;
 }
 
-input,button{
+input,
+button{
   outline:none;
 }
 
